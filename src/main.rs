@@ -1,6 +1,5 @@
 pub mod category;
-pub mod cli;
-pub mod http;
+pub mod controllers;
 pub mod shared;
 pub mod task;
 
